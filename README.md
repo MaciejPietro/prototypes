@@ -12,7 +12,7 @@ An application built with React, Vite, and Three.js, allowing users to customize
 
 
   <img align="center" src="https://raw.githubusercontent.com/MaciejPietro/prototypes/refs/heads/main/images/garage-builder/app-garage-builder.png" />
-<br></br>
+
 <a href="https://jazzy-taiyaki-3d6afa.netlify.app/" target="_blank">
 DEMO
 </a>

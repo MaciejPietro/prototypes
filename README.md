@@ -5,7 +5,6 @@
 
 
 
-<img src="https://komarev.com/ghpvc/?username=maciejpietro&color=3178C6&style=for-the-badge&label=Profile+views" alt="View counter for maciejpietro">
 
 ###  🏚️ 3D Garage Builder
 An application built with React, Vite, and Three.js, allowing users to customize their garage in real-time. Features include choosing roof style (rear, left, or right slope), adjusting garage dimensions (width, length, wall height), selecting wall materials (brick, metal, wood), and customizing the garage door size (width and height).

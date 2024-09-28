@@ -11,7 +11,8 @@
 An application built with React, Vite, and Three.js, allowing users to customize their garage in real-time. Features include choosing roof style (rear, left, or right slope), adjusting garage dimensions (width, length, wall height), selecting wall materials (brick, metal, wood), and customizing the garage door size (width and height).
 
 
-  <img align="center" src="](https://raw.githubusercontent.com/MaciejPietro/prototypes/refs/heads/main/images/garage-builder/app-garage-builder.png" />
+  <img align="center" src="https://raw.githubusercontent.com/MaciejPietro/prototypes/refs/heads/main/images/garage-builder/app-garage-builder.png" />
+<br></br>
 <a href="https://jazzy-taiyaki-3d6afa.netlify.app/" target="_blank">
 DEMO
 </a>

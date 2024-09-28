@@ -16,6 +16,10 @@ An application built with React, Vite, and Three.js, allowing users to customize
 DEMO
 </a>
 
+<a href="https://github.com/MaciejPietro/garage-planner" target="_blank">
+CODE
+</a>
+
 
 <br></br>
 

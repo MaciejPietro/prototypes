@@ -20,6 +20,11 @@ DEMO
 CODE
 </a>
 
+###  Google fonts to svg exporter
+Simple app to download google fonts as svg. I needed it for one of my projects. It leverages blade as template engine, vite as bundler, tailwindcss as css framework and alpine.js as js framework.
+
+<img align="center" src="https://raw.githubusercontent.com/MaciejPietro/google-fonts-svgs/refs/heads/main/preview.png" />
+
 
 <br></br>
 
